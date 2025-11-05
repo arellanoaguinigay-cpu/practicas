@@ -1,0 +1,8 @@
+/*DOCUMENTO CSS*/
+artista_videos.html
+*{padding: 0%;
+margin: 0%;}
+
+body {color: rgb(0, 0, 0);}
+ 
+#video {background-color: azure;}

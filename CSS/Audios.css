@@ -1,0 +1,41 @@
+/*DOCUMENTO CSS*/
+*{padding: 0%
+    margin:0%;}
+
+    body {background-color: slategray;}
+
+    h1 {text-align: center;
+    padding: 16px 0px;
+text-transform: uppercase;
+text-decoration: double;
+font-size: 3en;
+line-height: 140%;
+color: mintcream;
+text-shadow: 0px 0px 2px black;}
+
+class.audio {min-height:  1px;
+background-color: black;
+text-align: center;
+padding: 40px 0px 0px; } 
+
+#videos {background-color: rgb(218, 226, 218);
+width:80;
+min-height:  600px;
+margin: auto;
+display: flex;
+padding: 32px 0px 64px 16px;}
+
+#videos div {
+               width: 50; }
+#videos video,#videos video iframe { width: 100;
+                                height: 300px; } 
+                                .pie{color: black;
+                                min-height: 1px;
+                            
+                        padding: 16px 0px;}
+
+                                .pie p { color: beige;
+                                text-align: center;}
+
+
+                                h2 {padding: 16px 0px;}
